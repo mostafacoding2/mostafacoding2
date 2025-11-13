@@ -1,102 +1,136 @@
-# 💫 About Me
-I am a passionate **Flutter Developer** with strong experience in building modern, high-quality mobile applications. 🚀  
-I specialize in creating clean, responsive, and visually appealing UI with a focus on user experience. 🎨📱  
-I write scalable, maintainable code and follow best practices in state management and app architecture. 🧩  
-I have hands-on experience with REST APIs, Firebase, and local storage solutions. 🔗🔥  
-I enjoy solving complex problems and turning ideas into reliable mobile solutions. 💡➡️📲  
-I confidently work with **Bloc, Cubit, Provider, GetX, Riverpod**, and shared preferences. ⚙️📦  
-I stay updated with the latest Flutter technologies and continuously develop my skills. 📚✨  
-I collaborate effectively with teams and communicate clearly to deliver high-quality results. 🤝💬  
-I approach every project with professionalism, attention to detail, and a drive for excellence. 🎯  
-My goal is to build fast, stable, and user-focused apps that create real value. ⭐📈
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hi, I'm Mostafa Ahmed</h1>
+<h3 align="center">🚀 Flutter Developer | Mobile UI/UX Enthusiast | Payment Integrations | Firebase Expert</h3>
+
+<br>
+
+<!-- ABOUT ME SECTION -->
+## 💫 About Me  
+💙 I’m a passionate **Flutter Developer** building modern, fast, and reliable mobile applications.  
+🎨 I specialize in **beautiful UI/UX**, smooth animations, and responsive layouts.  
+🧩 I write clean, scalable, and maintainable code using the best state management patterns.  
+🔥 I integrate **Firebase, REST APIs, Stripe, PayPal, Razorpay, Google Pay, Apple Pay**, and **In-App Purchases**.  
+⚙️ I work confidently with **Bloc, Cubit, GetX, Riverpod, Provider, Hive, SQLite**.  
+📦 I use advanced Flutter packages: Dio, Retrofit, Freezed, Rive, Lottie, secure storage & more.  
+🌍 I support **Arabic, English, RTL**, and full localization.  
+💡 I turn ideas into real, successful applications with exceptional performance.  
+📚 Always learning. Always improving. Always building.
 
 ---
 
-## 🌐 Contact
-- **WhatsApp:** [01126050489](https://wa.me/201126050489)  
-- **Email:** [mostafaahmed612001@gmail.com](mailto:mostafaahmed612001@gmail.com)  
-- **LinkedIn:** https://www.linkedin.com/in/mostafa-ahmed-2a71ab281  
-- **GitHub:** https://github.com/mostafacoding2
+<!-- CONTACT -->
+## 📞 Contact Me
+
+<p align="left">
+  <a href="https://wa.me/201126050489">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="mailto:mostafaahmed612001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mostafa-ahmed-2a71ab281/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/share/1DHwVp3vNN/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 💻 Tech Stack & Skills
+<!-- TECH STACK -->
+## 💻 Tech Stack
 
-### Languages
-- Dart, C++ (core knowledge), SQL
+### 🚀 **Frontend / Mobile**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
-### Flutter / Frameworks
-- Flutter (mobile, web, desktop)
-- Widgets, CustomPaint, Responsive Layouts
-- Material & Cupertino design systems
-- Adaptive & accessible design
+### 🧩 **State Management**
+<p>
+  <img src="https://img.shields.io/badge/Bloc-0854C1?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cubit-0175C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GetX-000000?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Provider-0A6EBD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Riverpod-59C3FF?style=for-the-badge"/>
+</p>
 
-### State Management
-- Bloc / Cubit, Provider, GetX, Riverpod, MobX
+### 🔥 **Backend / Databases**
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-FFC700?style=for-the-badge&logo=hive&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-### Networking & APIs
-- `dio`, `http`, WebSockets, REST, GraphQL
+### 💳 **Payment Integrations**
+<p>
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Pay-000000?style=for-the-badge&logo=googlepay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apple%20Pay-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-0C7DE3?style=for-the-badge&logo=razorpay&logoColor=white"/>
+</p>
 
-### Backend & Databases
-- Firebase (Auth, Firestore, Realtime DB, Cloud Functions, Cloud Messaging)
-- Supabase, RESTful APIs, Node.js / Express (integration)
-- Local storage: Hive, SharedPreferences, sembast, SQLite (sqflite)
-
-### Payments & Monetization
-- **Stripe** (checkout, payment-intents, Apple/Google Pay integration)
-- **PayPal** (webview / REST integrations)
-- **Razorpay** (popular in some regions)
-- **In-App Purchases** (iOS / Android via `in_app_purchase`)
-- **Google Pay** & **Apple Pay** (via platform-specific configs + packages)
-- Subscriptions, one-time payments, promo codes & coupon flows
-
-### DevOps / CI-CD / Testing
-- CI/CD: GitHub Actions, Bitrise, Codemagic
-- Unit tests, Widget tests, Integration tests (flutter_test, integration_test)
-- Linting, formatting, and code coverage
-
-### Tools & Design
-- Figma, Adobe XD, Canva, Sketch
-- Git, GitHub, GitLab
-- Analytics: Firebase Analytics, Sentry (error tracking)
-
-### UX / Advanced Topics
-- Animations (Implicit & Explicit animations, Rive, Lottie)
-- Custom transitions, hero animations
-- Accessibility, RTL (Arabic language support), localization (i18n)
-- Performance tuning, memory/profile debugging
+### 🎨 **Design & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 ---
 
-# 🔌 Flutter Packages I Use Often
-- `flutter_bloc`, `bloc`, `provider`, `get`, `hooks_riverpod`
-- `dio`, `retrofit`, `http`, `graphql_flutter`
-- `firebase_core`, `firebase_auth`, `cloud_firestore`, `firebase_messaging`
-- `hive`, `sqflite`, `shared_preferences`
-- `in_app_purchase`, `stripe_sdk` / `flutter_stripe`, `pay`, `razorpay_flutter`
-- `cached_network_image`, `flutter_local_notifications`
-- `flutter_secure_storage`, `encrypt`
-- `equatable`, `freezed`, `json_serializable`
-- `flutter_localizations`
+## 🧠 Advanced Flutter Skills
+✔ Clean Architecture (MVVM, Domain-Driven Design, Feature-First)  
+✔ App performance optimization  
+✔ Push notifications / Firebase Messaging  
+✔ Google Maps & Location services  
+✔ Deep Links + Dynamic Links  
+✔ Local auth (Face ID, fingerprint)  
+✔ Animations: Rive, Lottie, Custom Animations  
+✔ WebView, OAuth, Social Login  
+✔ API caching, offline-first apps  
+✔ Secure local storage & encryption  
 
 ---
 
-# 💳 Payment Integrations — Short Examples & Notes
+## 🧩 Payment Systems Expertise  
+### ✔ Stripe  
+- PaymentIntents  
+- SetupIntents  
+- Apple Pay / Google Pay  
+- 3D Secure  
+- Subscriptions  
 
-> **Note:** Real payment integration requires proper server-side handling (secret keys), secure storage, and PCI compliance. Below are short illustrative snippets and common approaches.
+### ✔ PayPal  
+- REST integration  
+- WebView checkout flow  
 
-### Stripe (recommended approach)
-1. Create PaymentIntent on your **server** (using Stripe secret key).
-2. Return client secret to the app.
-3. Use `flutter_stripe` (or suitable SDK) to confirm payment.
+### ✔ In-App Purchases  
+- Consumables  
+- Subscriptions  
+- Server-side validation  
 
-**Example (simplified):**
-```dart
-// Pseudocode - do NOT store secret keys in app
-final clientSecret = await myServer.createPaymentIntent(amount, currency);
-await Stripe.instance.initPaymentSheet(paymentSheetParameters: {
-  'paymentIntentClientSecret': clientSecret,
-  // other config
-});
-await Stripe.instance.presentPaymentSheet();
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mostafacoding2&theme=dark&hide_border=false" height="150"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=mostafacoding2&theme=dark&hide_border=false" height="150"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafacoding2&theme=dark&hide_border=false&layout=compact" height="150"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mostafacoding2&icon=0&color=0"/>
+</p>
 
